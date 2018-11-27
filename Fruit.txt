@@ -1,6 +1,6 @@
 apple
 orange
 lemon
-bananne
-watermelona
-strawberrye
+banana
+watermelon
+strawberry
