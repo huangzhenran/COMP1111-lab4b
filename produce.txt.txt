@@ -1,3 +1,6 @@
 computer
 phone
 rubber
+fan
+watch
+kettle
