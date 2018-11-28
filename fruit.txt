@@ -1,3 +1,3 @@
-applea
-bananaa
-strawberrya
+apple
+banana
+strawberry
