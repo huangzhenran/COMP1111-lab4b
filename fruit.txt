@@ -1,6 +1,6 @@
 apple
 banana
 strawberry
-lemonaaa
-pineappleaaa
-orangeaaa
+lemon
+pineapple
+orange
