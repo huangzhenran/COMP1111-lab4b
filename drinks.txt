@@ -1,6 +1,6 @@
 water
 cola
 coffe
-teaa
-spritea
-beera
+tea
+sprite
+beer
