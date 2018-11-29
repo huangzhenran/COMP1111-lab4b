@@ -1,6 +1,9 @@
 phone
 computer
 watch
-car
+rainysunny
 plane
 bike
+trina
+shoe
+desk
