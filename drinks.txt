@@ -2,5 +2,8 @@ water
 cola
 coffe
 tea
-sprite
+cocktail
 beer
+apple juice
+milk
+red wine
