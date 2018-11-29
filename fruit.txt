@@ -4,3 +4,6 @@ strawberry
 lemon
 pineapple
 orange
+pear
+watermelom
+mango
